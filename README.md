@@ -12,5 +12,5 @@ To understand the company’s valuation, we conduct a discounted cashflow valuat
 ![Alt text](https://github.com/alexlampros/valuation/blob/main/Elanders%20screenshot_8.png)
 
 ## Summery
-Elanders AB is fairly valued and generates positive economic value from operations and healthy cashflow.
+Elanders AB is fairly valued. The company generates both positive economic value from operations and healthy cashflow.
 The company's reliance on debt is becoming a concern. ROE is primarily propped up by the company's leverage factor, and not by profits or asset utilization. Given the a 67% total debt ratio and a 2x interest coverage ratio, this is not sustainable. The company should focus on operational efficiency and improve asset turnover to sustain ROE. 
