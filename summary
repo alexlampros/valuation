@@ -2,7 +2,7 @@
 Elanders AB is a publicly traded printing and logistics company on the Stockholm stock exchange (ELAN-B.st). 
 Our task is to evaluate the company’s financial health and value the firm. 
 To understand the company’s valuation, we conduct a discounted cashflow valuation (DCF) as well as an economic value add valuation (EVA). 
-![Alt text](https://github.com/alexlampros/valuation/blob/main/Elanders%20screenshot.png)
+![Alt text]('https://github.com/alexlampros/valuation/blob/main/Elanders%20screenshot.png')
 
 
 These two methods yield the same valuation; however, EVA gives us a unique perspective on the company’s operations. 
