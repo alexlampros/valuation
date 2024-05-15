@@ -11,7 +11,6 @@ To understand the company’s valuation, we conduct a discounted cashflow valuat
 ![Alt text](https://github.com/alexlampros/valuation/blob/main/Elanders%20screenshot_7.png)
 ![Alt text](https://github.com/alexlampros/valuation/blob/main/Elanders%20screenshot_8.png)
 
-These two methods yield the same valuation; however, EVA gives us a unique perspective on the company’s operations. 
-It is possible for a company to be cash positive yet still be destroying economic value with its operations. 
-Luckily this is not the case with Elanders AB – the company is both cashflow positive and generates a healthy economic profit from operations.  
-At the beginning of 2024 the company is trading at 96.00 SEK per share; after accounting for bankruptcy risk, we value the company at 101.00 SEK per share. Elanders AB is fairly valued. 
+## Summery
+Elanders AB is fairly valued and generates positive economic value from operations and healthy cashflow.
+The company's reliance on debt is becoming a concern. ROE is primarily propped up by the company's leverage factor, and not by profits or asset utilization. Given the a 67% total debt ratio and a 2x interest coverage ratio, this is not sustainable. The company should focus on operational efficiency and improve asset turnover to sustain ROE. 
