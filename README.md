@@ -8,7 +8,8 @@ To understand the company’s valuation, we conduct a discounted cashflow valuat
 ![Alt text](https://github.com/alexlampros/valuation/blob/main/Elanders%20screenshot_4.png)
 ![Alt text](https://github.com/alexlampros/valuation/blob/main/Elanders%20screenshot_5.png)
 ![Alt text](https://github.com/alexlampros/valuation/blob/main/Elanders%20screenshot_6.png)
-
+![Alt text](https://github.com/alexlampros/valuation/blob/main/Elanders%20screenshot_7.png)
+![Alt text](https://github.com/alexlampros/valuation/blob/main/Elanders%20screenshot_8.png)
 
 These two methods yield the same valuation; however, EVA gives us a unique perspective on the company’s operations. 
 It is possible for a company to be cash positive yet still be destroying economic value with its operations. 
